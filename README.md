@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UMS Data Analysis 
 
 **Team**
@@ -29,3 +30,6 @@ Python. Dash. Plotly. Statistics.
     - https://dash.plotly.com/installation
     - https://www.youtube.com/watch?v=hSPmj7mK6ng
     
+=======
+# UMS-Data-Analysis
+>>>>>>> de359a70f1ef5e1d077b57dc501826c4840bebd2
