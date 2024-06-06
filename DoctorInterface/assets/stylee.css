@@ -1,0 +1,65 @@
+body {
+    font-family: Times New Roman;
+}
+
+.nav-pills .nav-link.active,.nav-pills .show>.nav-link {
+    color: var(--bs-nav-pills-link-active-color);
+    background-color: rgb(99, 21, 167)
+}
+
+#filter1-dpdn,
+#filter2-dpdn {
+    width: 200px
+}
+
+.rc-slider-track{
+    background-color: rgb(99, 21, 167)
+}
+.rc-slider-dot-active,
+.rc-slider-handle {
+    border-color: #2b292947
+}
+
+#my_checklist {
+    display: inline-block;
+}
+
+#my_checklist1 label,
+#my_checklist2 label{
+    font-size: 19px;
+    font-weight:600;
+    vertical-align: inherit;
+}
+
+#my_checklist1 label input,
+#my_checklist2 label input{
+    width: 24px;
+    height: 16px;
+}
+
+#graphs-section #Graph1 {
+    box-shadow: rgb(31, 84, 173) 35px 34px 9px -37px
+}
+
+.row .col .card {
+    /*box-shadow: rgb(31 84 173) -5px -3px 13px -7px;*/
+    box-shadow: rgb(225 18 133) 3px 7px 17px -8px
+}
+
+.card-header {
+    font-weight: 600;
+}
+
+.card-header I {
+    color: rgb(225 18 133)
+}
+
+.nav-link {
+    color: rgb(225 18 133)
+}
+
+.col-xxl-2,
+.col-xl-2{
+    flex: 0 0 auto;
+    width: 13%;
+}
